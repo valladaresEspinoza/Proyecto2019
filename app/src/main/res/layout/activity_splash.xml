@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashActivity"
+    android:background="@drawable/cristo"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#F0ECEC"
+        android:text="Docente"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:textColor="#F0ECEC"
+    android:text="Manuel Dejesus gamez Lopez"
+    android:fontFamily="sans-serif-condensed-light"
+    android:textAlignment="center"
+    android:textSize="20dp"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textColor="#F0ECEC"
+        android:text="INTEGRANTES"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="#F0ECEC"
+        android:text="Jose Alexander valladares Espinoza"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="#F0ECEC"
+        android:text="William Alexander Ortiz Amaya"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="#F0ECEC"
+        android:text="Luis Alberto Rivera Cerna"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="#F0ECEC"
+        android:text="Anderson Alexander Bonilla Vasquez"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        />
+</LinearLayout>
